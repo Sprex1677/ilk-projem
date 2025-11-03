@@ -1,0 +1,36 @@
+body {
+  background-color: blueviolet;
+}
+
+.link a {
+  text-decoration: none;
+  font-size: 20px;
+  margin: 200px;
+  color: rgb(0, 0, 0);
+}
+
+#img1 {
+  margin-top: 20px;
+  border-radius: 50%;
+  width: 160px;
+  height: 170px;
+}
+#bir {
+  color: aliceblue;
+}
+
+.sct {
+  font-size: 20px;
+  color: aliceblue;
+}
+.sct h1 {
+  color: brown;
+}
+.h3 {
+  margin-left: 20px;
+  color: brown;
+}
+.liste {
+  margin: 10px;
+  color: wheat;
+}
